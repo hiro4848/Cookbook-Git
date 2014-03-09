@@ -1,0 +1,11 @@
+---
+:ingredients:
+- :type: :installer
+  :installer_type: :custom
+  :source_url: http://msysgit.googlecode.com/files/Git-1.9.0-preview20140217.exe
+  :package_name: Git version 1.9.0-preview20140217
+  :installer_options: /VERYSILENT
+  :support_32bit: true
+  :support_64bit: 
+:support_32bit: true
+:support_64bit: 
